@@ -1,0 +1,216 @@
+{
+    "seller": {
+        "preHeading": "Creative Artist",
+        "heading": "Top Sellers",
+        "sellerData": [
+            {
+              "id": 1,
+              "img": "/img/avatar_1.jpg",
+              "seller": "@Richard",
+              "price": "1.5 BNB"
+            },
+            {
+              "id": 2,
+              "img": "/img/avatar_2.jpg",
+              "seller": "@JohnDeo",
+              "price": "2.3 BNB"
+            },
+            {
+              "id": 3,
+              "img": "/img/avatar_3.jpg",
+              "seller": "@Junaid",
+              "price": "2.5 BNB"
+            },
+            {
+                "id": 4,
+                "img": "/img/avatar_4.jpg",
+                "seller": "@Yasmin",
+                "price": "1.9 BNB"
+            },
+            {
+              "id": 5,
+              "img": "/img/avatar_5.jpg",
+              "seller": "@ArhamH",
+              "price": "3.2 BNB"
+            },
+            {
+              "id": 6,
+              "img": "/img/avatar_6.jpg",
+              "seller": "@Sara",
+              "price": "4.7 BNB"
+            }
+        ]
+    },
+    "collections": {
+        "preHeading": "Most Popular",
+        "heading": "Popular Collections",
+        "btnText": "Explore More",
+        "collectionData": [
+            {
+                "id": 1,
+                "img": "/img/author_1.jpg",
+                "avatar": "/img/avatar_1.jpg",
+                "title": "Virtual Worlds",
+                "content": "ERC-729"
+            },
+            {
+                "id": 2,
+                "img": "/img/author_2.jpg",
+                "avatar": "/img/avatar_2.jpg",
+                "title": "Digital Arts",
+                "content": "ERC-522"
+            },
+            {
+                "id": 3,
+                "img": "/img/author_3.jpg",
+                "avatar": "/img/avatar_3.jpg",
+                "title": "Sports",
+                "content": "ERC-495"
+            },
+            {
+                "id": 4,
+                "img": "/img/author_4.jpg",
+                "avatar": "/img/avatar_4.jpg",
+                "title": "Photography",
+                "content": "ERC-873"
+            },
+            {
+                "id": 5,
+                "img": "/img/author_5.jpg",
+                "avatar": "/img/avatar_5.jpg",
+                "title": "Trading Cards",
+                "content": "ERC-397"
+            },
+            {
+                "id": 6,
+                "img": "/img/author_6.jpg",
+                "avatar": "/img/avatar_6.jpg",
+                "title": "Walking On Air",
+                "content": "ERC-403"
+            },
+            {
+                "id": 7,
+                "img": "/img/author_7.jpg",
+                "avatar": "/img/avatar_7.jpg",
+                "title": "Domain Names",
+                "content": "ERC-687"
+            },
+            {
+                "id": 8,
+                "img": "/img/author_8.jpg",
+                "avatar": "/img/avatar_8.jpg",
+                "title": "Collectibles",
+                "content": "ERC-972"
+            }
+        ]
+    },
+    "work": {
+        "preHeading": "How It Works",
+        "heading": "Create and sell your NFTs",
+        "workData": [
+            {
+                "id": 1,
+                "icon": "icons icon-wallet text-effect",
+                "title": "Set up your wallet",
+                "text": "Once you’ve set up your wallet of choice, connect it to OpenSea by clicking the NFT Marketplace in the top right corner. Learn about the wallets we support."
+            },
+            {
+                "id": 2,
+                "icon": "icons icon-grid text-effect",
+                "title": "Create your collection",
+                "text": "Click Create and set up your collection. Add social links, a description, profile & banner images, and set a secondary sales fee."
+            },
+            {
+                "id": 3,
+                "icon": "icons icon-drawer text-effect",
+                "title": "Add your NFTs",
+                "text": "Upload your work (image, video, audio, or 3D art), add a title and description, and customize your NFTs with properties, stats, and unlockable content."
+            },
+            {
+                "id": 4,
+                "icon": "icons icon-bag text-effect",
+                "title": "List them for sale",
+                "text": "Choose between auctions, fixed-price listings, and declining-price listings. You choose how you want to sell your NFTs!"
+            }
+        ]
+    },
+    "explore": {
+        "preHeading": "Exclusive Assets",
+        "heading": "Explore",
+        "btnText": "Explore More",
+        "exploreData": [
+            {
+                "id": 1,
+                "img": "/img/auction_1.jpg",
+                "title": "Walking On Air",
+                "owner": "Richard",
+                "price": "1.5 ETH",
+                "count": "1 of 1",
+                "btnText": "Place a Bid"
+            },
+            {
+                "id": 2,
+                "img": "/img/auction_2.jpg",
+                "title": "Domain Names",
+                "owner": "John Deo",
+                "price": "2.7 ETH",
+                "count": "1 of 1",
+                "btnText": "Place a Bid"
+            },
+            {
+                "id": 3,
+                "img": "/img/auction_3.jpg",
+                "title": "Trading Cards",
+                "owner": "Arham",
+                "price": "2.3 ETH",
+                "count": "1 of 1",
+                "btnText": "Place a Bid"
+            },
+            {
+                "id": 4,
+                "img": "/img/auction_4.jpg",
+                "title": "Industrial Revolution",
+                "owner": "Yasmin",
+                "price": "1.8 ETH",
+                "count": "1 of 1",
+                "btnText": "Place a Bid"
+            },
+            {
+                "id": 5,
+                "img": "/img/auction_5.jpg",
+                "title": "Utility",
+                "owner": "Junaid",
+                "price": "1.7 ETH",
+                "count": "1 of 1",
+                "btnText": "Place a Bid"
+            },
+            {
+                "id": 6,
+                "img": "/img/auction_6.jpg",
+                "title": "Sports",
+                "owner": "ArtNox",
+                "price": "1.9 ETH",
+                "count": "1 of 1",
+                "btnText": "Place a Bid"
+            },
+            {
+                "id": 7,
+                "img": "/img/auction_7.jpg",
+                "title": "Cartoon Heroes",
+                "owner": "Junaid",
+                "price": "3.2 ETH",
+                "count": "1 of 1",
+                "btnText": "Place a Bid"
+            },
+            {
+                "id": 8,
+                "img": "/img/auction_8.jpg",
+                "title": "Gaming Chair",
+                "owner": "Johnson",
+                "price": "0.69 ETH",
+                "count": "1 of 1",
+                "btnText": "Place a Bid"
+            }
+        ]
+    }
+}
